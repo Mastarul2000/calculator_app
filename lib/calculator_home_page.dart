@@ -1,4 +1,4 @@
-import 'package:calculator/button_vaues.dart';
+import 'package:calculator/buttons.dart';
 import 'package:flutter/material.dart';
 
 class CalculatorHomePage extends StatefulWidget {
